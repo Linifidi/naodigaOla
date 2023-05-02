@@ -1,77 +1,56 @@
-# Please Don't Just Say Hello In Chat
+# Por favor, não diga apenas "olá" no chat
 
-## TL;DR
+##TL;DR
 
-Modern chat communication should be done in a way that saves time for all
-participants and enables an efficient, asynchronous exchange of information.
-**Don't expect an answer if you just write "Hello" in chat**. Don't call
-someone out of the blue. Instead, phrase a message that allows your chat
-partners to provide a meaningful response as soon as they allocate time to read
-and answer your message.
+A comunicação de bate-papo moderna deve ser feita de forma a economizar tempo para todos os participantes e permitir uma troca de informações eficiente e assíncrona.
+**Não espere uma resposta se você apenas escrever "Olá" no chat**. não ligue para alguém do nada. Em vez disso, escreva uma mensagem que permita que seus parceiros de bate-papo forneçam uma resposta significativa assim que alocarem tempo para ler e responder sua mensagem.
 
-## Chat Etiquette
+## Etiqueta de bate-papo
 
 ```text
-2010-07-19 12:32:12 you: Hello
-2010-07-19 12:32:15 co-worker: Hi.
-# CO-WORKER WAITS WHILE YOU PHRASE YOUR QUESTION
-2010-07-19 12:34:01 you: I'm working on [something] and I'm trying to do [etc...]
-2010-07-19 12:35:21 co-worker: Oh, that's [answer...]
+2010-07-19 12:32:12 você: Olá
+2010-07-19 12:32:15 colega de trabalho: Oi.
+# COLABORADOR ESPERA ENQUANTO VOCÊ FAZ SUA PERGUNTA
+2010-07-19 12:34:01 você: Estou trabalhando em [algo] e estou tentando fazer [etc...]
+2010-07-19 12:35:21 colega de trabalho: Oh, isso é [resposta...]
 ```
 
-It's as if you called someone on the phone and said "Hello!" and then put them on
-hold!
+É como se você ligasse para alguém e dissesse "Alô!" e depois colocá-los em espera!
 
-Please do this instead:
+Por favor, faça isso em vez disso:
 
 ```text
-2010-07-19 12:32:12 you: Hello -- I'm working on [something] and I'm trying to do [etc...]
-2010-07-19 12:33:32 co-worker: [answers question]
+19/07/2010 12:32:12 você: Olá -- estou trabalhando em [algo] e estou tentando fazer [etc...]
+19/07/2010 12:33:32 colega de trabalho: [responde a pergunta]
 ```
 
-Note that you get help minutes sooner, and you don't make them wait. Instead,
-the co-worker can start thinking about your question right away!
+Observe que você recebe ajuda minutos antes e não os faz esperar. Em vez disso, o colega de trabalho pode começar a pensar na sua pergunta imediatamente!
 
-You're trying to be polite by not jumping right into the request, like you
-would do in person or on the phone. But Chat is neither of those things. Typing
-is much slower than talking. Instead of being polite, you are just making the
-other person wait for you to phrase your question, which is lost productivity.
+Você está tentando ser educado ao não ir direto ao pedido, como faria pessoalmente ou por telefone. Mas Chat não é nenhuma dessas coisas. Digitar é muito mais lento do que falar. Em vez de ser educado, você está apenas fazendo a outra pessoa esperar que você faça sua pergunta, o que é perda de produtividade.
 
-The same goes for "Hello -- Are you there?", "Hi Bob -- quick question.", "Do
-you have a sec ?", "yt?" and "ping". Just ask the question!
+O mesmo vale para "Olá - você está aí?", "Oi, Bob - pergunta rápida.", "Você tem um segundo?", "tá aí?" e "opa...". Basta fazer a pergunta!
 
-If you feel it's brusque to simply say "Hi" and ask the question, you can do
-something like this:
+Se você acha que é brusco simplesmente dizer "Oi" e fazer a pergunta, faça algo assim:
 
 ```text
-2010-07-19 12:32:12 you: Hi -- if you're not busy I was wondering if I could ask a question. I'm working on [something] and I'm trying to do [etc...]
+2010-07-19 12:32:12 você: Oi -- se você não estiver ocupado, gostaria de saber se posso fazer uma pergunta. Estou trabalhando em [algo] e estou tentando fazer [etc...]
 ```
 
-Additionally, asking your question before getting a reply allows asynchronous
-communication. If the other party is away, and you leave before they come back,
-they can still answer your question, instead of just staring at a "Hello" and
-wondering what they missed.
+Além disso, fazer sua pergunta antes de obter uma resposta permite a comunicação assíncrona. Se a outra parte estiver ausente e você sair antes que ela volte, ela ainda poderá responder à sua pergunta, em vez de apenas olhar para um "Olá" e se perguntar o que perdeu.
 
-## Call Etiquette
+## Etiqueta de chamada
 
-Don't call someone out of the blue. Respect that your desired call partner
-might be busy and in [flow](https://en.wikipedia.org/wiki/Flow_(psychology)).
-Calling someone means you request immediate, full attention, interrupting any
-other activity. Some people like to probe with an initial "hello" to verify
-whether the presence status shown is true, hoping they can determine whether
-the recipient is near a device, then will immediately follow up with a call.
-Don't do that either.  If someone is able and willing to answer a chat message,
-it does not mean that they are also available for a voice or video call.
+Não ligue para alguém do nada. Respeite o fato de que seu parceiro de chamada desejado pode estar ocupado e em [fluxo](https://pt.wikipedia.org/wiki/Fluxo_(psicologia)). 
 
-Instead of sending a call probe, or asking "hey, do you have time for a call?"
-(which is better but not great), you can try something like this:
+Chamar alguém significa solicitar atenção imediata e plena, interrompendo qualquer outra atividade. Algumas pessoas gostam de sondar com um "olá" inicial para verificar se o status de presença mostrado é verdadeiro, esperando que possam determinar se o destinatário está perto de um dispositivo e, em seguida, fará uma chamada imediatamente.
+Não faça isso também. Se alguém puder e quiser responder a uma mensagem de bate-papo, isso não significa que também esteja disponível para uma chamada de voz ou vídeo.
+
+Em vez de enviar uma sondagem de chamada ou perguntar "ei, você tem tempo para uma ligação?" (o que é melhor, mas não ótimo), você pode tentar algo assim:
 
 ```text
-2020-07-08 12:32:12 you: Hi - do you have X min for a quick call to talk about XYZ? [etc...]
+2020-07-08 12:32:12 você: Oi - você tem X min para uma ligação rápida para falar sobre XYZ? [etc...]
 ```
 
-This does three things: it time bounds the request, it gives the recipient some
-context, and it helps you remember what you wanted to talk about if the
-recipient can't or doesn't respond until later.
+Isso faz três coisas: limita o tempo da solicitação, dá ao destinatário algum contexto e ajuda você a lembrar sobre o que você queria falar se o destinatário não puder ou não responder até mais tarde.
 
-<sup>The source for this website is open and available on [GitHub](https://github.com/sbmueller/nohello).</sup>
+<sup>O código-fonte deste site está aberto e disponível no [GitHub](https://github.com/sbmueller/nohello).</sup>
